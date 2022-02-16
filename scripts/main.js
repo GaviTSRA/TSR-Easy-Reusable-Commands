@@ -53,7 +53,7 @@ function loadDialog() {
 	a.row();
 
 	dialog.addCloseButton();
-};
+}
 
 ui.onLoad(() => {
 	loadDialog();
