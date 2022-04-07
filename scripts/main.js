@@ -57,10 +57,7 @@ function loadDialog() {
 	a.row();
 
 	dialog.addCloseButton();
-        dialog.buttons.button("Reload settings", Icon.logic, () => {
-		loadDialog(); 
-	});
-};
+}
 
 ui.onLoad(() => {
         Vars.ui.settings.game.checkPref("save-commands", Core.settings.getBool("save-commands", true));
