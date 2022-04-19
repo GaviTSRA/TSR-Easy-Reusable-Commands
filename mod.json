@@ -4,7 +4,7 @@
     "displayName": "[orange]T[green]S[yellow]R [blue]Easy Reusable Commands",
     "description": "A mod that adds a menu which easily allows you to reuse commands",
     "dependencies": ["ui-lib"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "hidden": true,
     "minGameVersion": "126"
 }
