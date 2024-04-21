@@ -1,4 +1,4 @@
-const ui = require("ui-lib/library");
+const ui = require("ui_lib/library");
 var dialog = null, button = null;
 
 function loadDialog() {

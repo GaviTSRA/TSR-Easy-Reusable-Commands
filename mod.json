@@ -1,10 +1,10 @@
 {
     "name": "tsr-easy-reusable-commands",
     "author": "GaviTSRA",
-    "displayName": "[orange]T[green]S[yellow]R [blue]Easy Reusable Commands",
+    "displayName": "[goldenrod]T[coral]S[teal]R [blue]Easy Reusable Commands",
     "description": "A mod that adds a menu which easily allows you to reuse commands",
-    "dependencies": ["ui-lib"],
+    "dependencies": ["ui_lib"],
     "version": "1.0.1",
     "hidden": true,
-    "minGameVersion": "126"
+    "minGameVersion": "146"
 }
